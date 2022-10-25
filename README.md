@@ -27,8 +27,8 @@
 
 <h3 align="center">Programming Languages</h3>  
 <div align="center">  
-<a href="https://www.w3.org/html/" target="_blank" > <img style="margin: 10px" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/html.png" alt="html5" height="30" /> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" > <img style="margin: 10px" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/css.png" alt="css3" height="30" /> </a> 
+<a href="https://www.w3.org/html/" target="_blank" > <img style="margin: 10px" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/html.png" alt="html5" height="40" /> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" > <img style="margin: 10px" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/css.png" alt="css3" height="40" /> </a> 
  <a href="https://www.mysql.com/" target="_blank" > <img style="margin: 10px" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/mysql.png" alt="mysql" height="30" /> </a>
 <a href="https://www.python.org" target="_blank" > <img style="margin: 10px" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/python.png" alt="python" height="30" /> </a>  
 </div>
