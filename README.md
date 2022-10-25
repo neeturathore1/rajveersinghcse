@@ -69,4 +69,4 @@
 
 [GitHub]: https://github.com/rajveersinghcse?tab=repositories
 [Linkedin]: https://www.linkedin.com/in/rajveersinghcse/
-[Twitter]: https://twitter.com/rajveersinghcse
+[Twitter]: https://twitter.com/itsdevilshot
