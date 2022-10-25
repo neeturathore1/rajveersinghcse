@@ -1,0 +1,72 @@
+<h1 align="center">Hi 👋, I'm Rajveer Singh</h1>
+<h3 align="center">A Data Scientist</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=itsrajveersingh&label=Profile%20views&color=0e75b6&style=flat" alt="itsrajveersingh" /></p>
+<o><img align="right"  height="280" width="400" src="https://github.com/itsrajveersingh/itsrajveersingh/blob/master/img/coder.gif" alt="coder"></p>
+
+- 🌱 I’m currently learning **Data Scientist & Machine Learning**
+
+- 👨‍💻 All of my projects are available at **[GitHub]**
+
+- 💬 Ask me about **Data Science and related things**
+
+- 📫 You can reach me through **[Twitter]**
+
+- 📄 Know about my experiences **[Linkedin]**
+
+- ⚡ Fun fact **Coding is Fun**
+
+<h3 align="left">Connect with me :</h3>
+<p align="left"><a href="https://twitter.com/rajveersinghcse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajveersinghcse" height="30" width="40" /></a> <a href="https://linkedin.com/in/rajveersinghcse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajveersinghcse" height="30" width="40" /></a> <a href="https://kaggle.com/rajveersinghcse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rajveersinghcse" height="30" width="40" /></a> <a href="https://www.hackerrank.com/rajveersinghcse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rajveersinghcse" height="30" width="40" /></a> </p>
+
+
+<h3>My Skill Sets :</h3>
+<table><tr><td valign="top" width="33%">
+
+
+<h3 align="center">Programming Languages</h3>  
+<div align="center">  
+<a href="https://www.w3.org/html/" target="_blank" > <img style="margin: 10px" src="https://github.com/itsrajveersingh/itsrajveersingh/blob/master/img/html.png" alt="html5" height="50" /> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" > <img style="margin: 10px" src="https://github.com/itsrajveersingh/itsrajveersingh/blob/master/img/css.png" alt="css3" height="50" /> </a> 
+ <a href="https://www.mysql.com/" target="_blank" > <img style="margin: 10px" src="https://github.com/itsrajveersingh/itsrajveersingh/blob/master/img/mysql.png" alt="mysql" height="50" /> </a>
+<a href="https://www.python.org" target="_blank" > <img style="margin: 10px" src="https://github.com/itsrajveersingh/itsrajveersingh/blob/master/img/python.png" alt="python" height="50" /> </a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+<h3 align="center">Tools</h3>
+<div align="center">  
+<a href="https://pandas.pydata.org/" target="_blank" > <img style="margin: 10px" src="https://github.com/itsrajveersingh/itsrajveersingh/blob/master/img/panda.png" alt="pandas" height="50" /> </a> 
+<a href="https://pytorch.org/" target="_blank" > <img style="margin: 10px" src="https://github.com/itsrajveersingh/itsrajveersingh/blob/master/img/pytorch.png" alt="pytorch" height="50" /> </a>
+<a href="https://scikit-learn.org/" target="_blank" > <img style="margin: 10px" src="https://github.com/itsrajveersingh/itsrajveersingh/blob/master/img/scikitlearn.png" alt="scikit_learn" height="50" /> </a> 
+<a href="https://matplotlib.org/" target="_blank" > <img style="margin: 10px" src="https://github.com/itsrajveersingh/itsrajveersingh/blob/master/img/matplotlib.png" alt="seaborn" height="50" /> </a> 
+<a href="https://www.tensorflow.org" target="_blank" > <img style="margin: 10px" src="https://github.com/itsrajveersingh/itsrajveersingh/blob/master/img/tensorflow.png" alt="tensorflow" height="50" /> </a> </div>
+
+</td><td valign="top" width="33%">
+
+
+
+<h3 align="center">Other Skill's</h3>
+<div align="center">  
+<a href="https://aws.amazon.com" target="_blank" > <img style="margin: 10px" src="https://github.com/itsrajveersingh/itsrajveersingh/blob/master/img/aws.png" alt="aws" height="50" /> </a> 
+<a href="https://azure.microsoft.com/en-in/" target="_blank" > <img style="margin: 10px" src="https://github.com/itsrajveersingh/itsrajveersingh/blob/master/img/azure.png" alt="azure" height="50" /> </a> 
+<a href="https://www.docker.com/" target="_blank" > <img style="margin: 10px" src="https://github.com/itsrajveersingh/itsrajveersingh/blob/master/img/docker.png" alt="docker" height="50" /> </a> 
+<a href="https://git-scm.com/" target="_blank" > <img style="margin: 10px" src="https://github.com/itsrajveersingh/itsrajveersingh/blob/master/img/git.png" alt="git" height="50" /> </a> 
+<a href="https://hadoop.apache.org/" target="_blank" > <img style="margin: 10px" src="https://github.com/itsrajveersingh/itsrajveersingh/blob/master/img/hadoop.png" alt="hadoop" height="50" /> </a>
+<a href="https://getbootstrap.com" target="_blank" > <img style="margin: 10px" src="https://github.com/itsrajveersingh/itsrajveersingh/blob/master/img/bootstrap.png" alt="bootstrap" height="50" /> </a>
+<a href="https://www.linux.org/" target="_blank" > <img style="margin: 10px" src="https://github.com/itsrajveersingh/itsrajveersingh/blob/master/img/linux.png" alt="linux" height="50" /> </a>
+</div>
+
+</td></tr></table>     
+
+<details>
+  <summary><h3>GitHub Stats :</h3></summary>
+  <img align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=itsrajveersingh&show_icons=true&locale=en&theme=github_dark" alt="itsrajveersingh" />
+ <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsrajveersingh&layout=compact&theme=github_dark" alt="itsrajveersingh" />
+</details>
+
+<p><a href="https://www.buymeacoffee.com/rajveersinghcse"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="160" alt="rajveersinghcse" /></a></p><br>
+
+[GitHub]: https://github.com/itsrajveersingh?tab=repositories
+[Linkedin]: https://www.linkedin.com/in/rajveersinghcse/
+[Twitter]: https://twitter.com/rajveersinghcse
