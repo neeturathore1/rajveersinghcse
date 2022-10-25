@@ -66,7 +66,7 @@
  <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajveersinghcse&layout=compact&theme=github_dark" alt="rajveersinghcse" />
 </details>
 
-<p><a href="https://www.buymeacoffee.com/rajveersinghcse"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="160" alt="rajveersinghcse" /></a></p><br>
+<p><a href="https://www.buymeacoffee.com/rajveersinghcse"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="170" alt="rajveersinghcse" /></a></p><br>
 
 [GitHub]: https://github.com/rajveersinghcse?tab=repositories
 [Linkedin]: https://www.linkedin.com/in/rajveersinghcse/
