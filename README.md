@@ -54,7 +54,7 @@
 <div align="center">  
 <a href="https://aws.amazon.com" target="_blank" > <img style="margin: 10px" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/aws.png" alt="aws" height="40" /> </a> 
 <a href="https://azure.microsoft.com/en-in/" target="_blank" > <img style="margin: 10px" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/azure.png" alt="azure" height="40" /> </a> 
-<a href="https://www.docker.com/" target="_blank" > <img style="margin: 10px" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/docker.png" alt="docker" height="40" width="55" /> </a> 
+<a href="https://www.docker.com/" target="_blank" > <img style="margin: 10px" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/docker.png" alt="docker" height="40" width="65" /> </a> 
 <a href="https://git-scm.com/" target="_blank" > <img style="margin: 10px" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/git.png" alt="git" height="40" /> </a> 
 <a href="https://hadoop.apache.org/" target="_blank" > <img style="margin: 10px" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/hadoop.png" alt="hadoop" height="40" /> </a>
 <a href="https://getbootstrap.com" target="_blank" > <img style="margin: 10px" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/bootstrap.png" alt="bootstrap" height="40" /> </a>
