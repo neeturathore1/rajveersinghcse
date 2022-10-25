@@ -1,3 +1,4 @@
+![Header](https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/banner.jpg)
 <h1 align="center">Hi 👋, I'm Rajveer Singh</h1>
 <h3 align="center">A Data Scientist</h3>
 
