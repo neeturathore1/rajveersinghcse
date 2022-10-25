@@ -30,21 +30,21 @@
 
 <h3 align="center">Programming Languages</h3>  
 <div align="center">  
-<a href="https://www.w3.org/html/" target="_blank" > <img style="margin: 10px" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/html.png" alt="html5" height="35" /> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" > <img style="margin: 10px" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/css.png" alt="css3" height="35" /> </a> 
- <a href="https://www.mysql.com/" target="_blank" > <img style="margin: 10px" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/mysql.png" alt="mysql" height="35" /> </a>
-<a href="https://www.python.org" target="_blank" > <img style="margin: 10px" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/python.png" alt="python" height="35" /> </a>  
+<a href="https://www.w3.org/html/" target="_blank" > <img style="margin: 10px" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/html.png" alt="html5" height="40" /> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" > <img style="margin: 10px" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/css.png" alt="css3" height="40" /> </a> 
+ <a href="https://www.mysql.com/" target="_blank" > <img style="margin: 10px" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/mysql.png" alt="mysql" height="40" /> </a>
+<a href="https://www.python.org" target="_blank" > <img style="margin: 10px" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/python.png" alt="python" height="40" /> </a>  
 </div>
 
 </td><td valign="top" width="33%">
 
 <h3 align="center">Tools</h3>
 <div align="center">  
-<a href="https://pandas.pydata.org/" target="_blank" > <img style="margin: 10px" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/panda.png" alt="pandas" height="35" /> </a> 
-<a href="https://pytorch.org/" target="_blank" > <img style="margin: 10px" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/pytorch.png" alt="pytorch" height="35" /> </a>
-<a href="https://scikit-learn.org/" target="_blank" > <img style="margin: 10px" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/scikitlearn.png" alt="scikit_learn" height="35" /> </a> 
-<a href="https://matplotlib.org/" target="_blank" > <img style="margin: 10px" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/matplotlib.png" alt="seaborn" height="35" /> </a> 
-<a href="https://www.tensorflow.org" target="_blank" > <img style="margin: 10px" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/tensorflow.png" alt="tensorflow" height="35" /> </a> </div>
+<a href="https://pandas.pydata.org/" target="_blank" > <img style="margin: 10px" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/panda.png" alt="pandas" height="40" /> </a> 
+<a href="https://pytorch.org/" target="_blank" > <img style="margin: 10px" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/pytorch.png" alt="pytorch" height="40" /> </a>
+<a href="https://scikit-learn.org/" target="_blank" > <img style="margin: 10px" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/scikitlearn.png" alt="scikit_learn" height="40" /> </a> 
+<a href="https://matplotlib.org/" target="_blank" > <img style="margin: 10px" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/matplotlib.png" alt="seaborn" height="40" /> </a> 
+<a href="https://www.tensorflow.org" target="_blank" > <img style="margin: 10px" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/tensorflow.png" alt="tensorflow" height="40" /> </a> </div>
 
 </td><td valign="top" width="33%">
 
@@ -52,13 +52,13 @@
 
 <h3 align="center">Other Skill's</h3>
 <div align="center">  
-<a href="https://aws.amazon.com" target="_blank" > <img style="margin: 10px" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/aws.png" alt="aws" height="35" /> </a> 
-<a href="https://azure.microsoft.com/en-in/" target="_blank" > <img style="margin: 10px" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/azure.png" alt="azure" height="35" /> </a> 
-<a href="https://www.docker.com/" target="_blank" > <img style="margin: 10px" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/docker.png" alt="docker" height="35" width="55" /> </a> 
-<a href="https://git-scm.com/" target="_blank" > <img style="margin: 10px" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/git.png" alt="git" height="35" /> </a> 
-<a href="https://hadoop.apache.org/" target="_blank" > <img style="margin: 10px" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/hadoop.png" alt="hadoop" height="35" /> </a>
-<a href="https://getbootstrap.com" target="_blank" > <img style="margin: 10px" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/bootstrap.png" alt="bootstrap" height="35" /> </a>
-<a href="https://www.linux.org/" target="_blank" > <img style="margin: 10px" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/linux.png" alt="linux" height="35" /> </a>
+<a href="https://aws.amazon.com" target="_blank" > <img style="margin: 10px" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/aws.png" alt="aws" height="40" /> </a> 
+<a href="https://azure.microsoft.com/en-in/" target="_blank" > <img style="margin: 10px" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/azure.png" alt="azure" height="40" /> </a> 
+<a href="https://www.docker.com/" target="_blank" > <img style="margin: 10px" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/docker.png" alt="docker" height="40" width="55" /> </a> 
+<a href="https://git-scm.com/" target="_blank" > <img style="margin: 10px" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/git.png" alt="git" height="40" /> </a> 
+<a href="https://hadoop.apache.org/" target="_blank" > <img style="margin: 10px" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/hadoop.png" alt="hadoop" height="40" /> </a>
+<a href="https://getbootstrap.com" target="_blank" > <img style="margin: 10px" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/bootstrap.png" alt="bootstrap" height="40" /> </a>
+<a href="https://www.linux.org/" target="_blank" > <img style="margin: 10px" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/linux.png" alt="linux" height="40" /> </a>
 </div>
 
 </td></tr></table>     
