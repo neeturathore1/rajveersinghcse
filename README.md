@@ -18,7 +18,10 @@
 - ⚡ Fun fact **Coding is Fun**
 
 <h3 align="left">Connect with me :</h3>
-<p align="left"><a href="https://twitter.com/itsdevilshot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajveersinghcse" height="30" width="30" /></a> <a href="https://linkedin.com/in/rajveersinghcse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajveersinghcse" height="28" width="28" /></a> <a href="https://kaggle.com/rajveersinghcse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rajveersinghcse" height="28" width="28" /></a> <a href="https://www.hackerrank.com/rajveersinghcse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rajveersinghcse" height="28" width="28" /></a> </p>
+<p align="left"><a href="https://twitter.com/itsdevilshot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajveersinghcse" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/rajveersinghcse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajveersinghcse" height="28" width="28" /></a>
+<a href="https://kaggle.com/rajveersinghcse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rajveersinghcse" height="28" width="28" /></a>
+<a href="https://www.hackerrank.com/rajveersinghcse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rajveersinghcse" height="28" width="28" /></a> </p>
 
 
 <h3>My Skill Sets :</h3>
@@ -51,7 +54,7 @@
 <div align="center">  
 <a href="https://aws.amazon.com" target="_blank" > <img style="margin: 10px" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/aws.png" alt="aws" height="35" /> </a> 
 <a href="https://azure.microsoft.com/en-in/" target="_blank" > <img style="margin: 10px" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/azure.png" alt="azure" height="35" /> </a> 
-<a href="https://www.docker.com/" target="_blank" > <img style="margin: 10px" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/docker.png" alt="docker" height="35" /> </a> 
+<a href="https://www.docker.com/" target="_blank" > <img style="margin: 10px" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/docker.png" alt="docker" height="35" width="35" /> </a> 
 <a href="https://git-scm.com/" target="_blank" > <img style="margin: 10px" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/git.png" alt="git" height="35" /> </a> 
 <a href="https://hadoop.apache.org/" target="_blank" > <img style="margin: 10px" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/hadoop.png" alt="hadoop" height="35" /> </a>
 <a href="https://getbootstrap.com" target="_blank" > <img style="margin: 10px" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/bootstrap.png" alt="bootstrap" height="35" /> </a>
